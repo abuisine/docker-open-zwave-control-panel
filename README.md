@@ -1,1 +1,1 @@
-docker-open-zwave-control-panel
+A docker container for OpenZwave Control Panel, based on the latest openzwave version
